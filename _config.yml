@@ -1,28 +1,40 @@
-name: hessuj
 favicon: null
-layout_spectrum: 0.6460481495596468
-typography_spectrum: 0.37998971226625144
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+name: hessuj
 opengraph:
   image: null
   type: null
   appId: null
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+purpose: []
 color:
-  brandColors:
-    - '#ADD7F6'
-    - '#87BFFF'
-    - '#3F8EFC'
-    - '#2667FF'
-    - '#3B28CC'
+  saturation: 0.8511979337781668
   brandStrength: 0.7305301951710135
   lightness: 0.07671184069477022
-  saturation: 0.8511979337781668
+  brandColors:
+    - '#C2C2A8'
+    - '#14143A'
+    - '#FCFCE0'
+    - '#8C7D6A'
+    - '#02FEE5'
   rhythmicContrast: 0.931168154347688
-purpose: []
+typography_spectrum: 0.3799897122662514
+cta:
+  bucket: null
+  version: null
+  domain: null
+layout_spectrum: 0.6460481495596468
+analytics:
+  twitter: null
+  google: null
+  facebook: null
