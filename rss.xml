@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[hessuj]]></title>
         <description><![CDATA[hessuj]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/hessuj/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Sat, 09 Jan 2016 19:46:10 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Tue, 28 Jun 2016 10:03:23 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/hessuj/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[hessujarvinen.com]]></title>
+            <description><![CDATA[<p>http://hessujarvinen.com</p>]]></description>
+            <link>https://thegrid.ai/hessuj/hessujarvinencom/index.html</link>
+            <guid isPermaLink="false">6d58df0c-2ad0-4d29-afad-17c4a5ecd540</guid>
+            <pubDate>Tue, 28 Jun 2016 10:03:22 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[No title]]></title>
             <description><![CDATA[<p>Hello World!</p>]]></description>
-            <link>undefined4538e138-dd1c-4388-a2bd-bdc394dc9cea/index.html</link>
+            <link>https://thegrid.ai/hessuj/4538e138-dd1c-4388-a2bd-bdc394dc9cea/index.html</link>
             <guid isPermaLink="false">4538e138-dd1c-4388-a2bd-bdc394dc9cea</guid>
             <pubDate>Sat, 09 Jan 2016 19:45:47 GMT</pubDate>
         </item>
